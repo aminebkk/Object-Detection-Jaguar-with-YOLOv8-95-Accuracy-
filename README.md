@@ -1,6 +1,7 @@
 # Object Detection: Jaguar with YOLOv8 (95% Accuracy)
 
 <div align="center">
+  
 ![image](https://github.com/aminebkk/Object-Detection-Jaguar-with-YOLOv8-95-Accuracy-/assets/68397537/733b4e2a-ca36-4ee8-b6cd-49c49a5881be)
 
 ![image](https://github.com/aminebkk/Object-Detection-Jaguar-with-YOLOv8-95-Accuracy-/assets/68397537/0353d37f-0612-4c96-9ef2-13c096059bcb)
